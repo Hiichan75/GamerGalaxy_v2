@@ -28,6 +28,10 @@
         margin: 0;
         padding: 0;
     }
+
+    .table{
+        color: white;
+    }
     .star {
         position: absolute;
         width: 2px;
