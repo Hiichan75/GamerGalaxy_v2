@@ -125,17 +125,11 @@
         </style>
         <header class="header">
             <div id="hoofd">
-                <a href="home.html"><img src="../Home/logo-removebg.png" alt="Home" id="btnhome"></a>
+                <a href="home.html"><img src="logo-removebg.png" alt="Home" id="btnhome"></a>
                 <h1>Search for games to add!</h1>
                 <form id="form">
                     <input type="text" id="search" class="search" placeholder="search">
                 </form>
-            </div>
-
-            <div id="links">
-                <a href="../Home/home.html">Home</a>
-                <a href="gamelist.html">Gamelist</a>
-                <a href="../support/support.html">Support</a>
             </div>
         </header>
         <main class="main">
