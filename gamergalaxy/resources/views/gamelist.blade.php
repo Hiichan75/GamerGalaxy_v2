@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('gamelist')
-<div class="container">
+@section('content')
+<div class="container mt-5">
     <body class="gamelist">
         <style>
             .gamelist {

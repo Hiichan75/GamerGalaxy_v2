@@ -58,7 +58,7 @@ Route::middleware('auth')->group(function () {
 Route::resource('news', NewsController::class);
 
 Route::get('/gamelist', function () {
-    return view('gamelist.index');
+    return view('gamelist');
 })->name('gamelist');
 
 // Resource routes for FAQ management
