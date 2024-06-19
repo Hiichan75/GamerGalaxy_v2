@@ -11,7 +11,7 @@ class FAQCategoriesTableSeeder extends Seeder
     {
         DB::table('f_a_q_categories')->insert([
             ['name' => 'General'],
-            ['name' => 'Billing'],
+            ['name' => 'Gamelist'],
             ['name' => 'Technical Support'],
         ]);
     }

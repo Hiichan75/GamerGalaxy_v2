@@ -20,8 +20,8 @@ class FAQTableSeeder extends Seeder
                 'updated_at' => Carbon::now(),
             ],
             [
-                'question' => 'How can I update my billing information?',
-                'answer' => 'You can update your billing information in your account settings.',
+                'question' => 'How can I update my gamelist information?',
+                'answer' => 'You can update your gamelist information in your profile settings.',
                 'category_id' => 2,
                 'user_id' => 1, // Replace with an existing user ID
                 'created_at' => Carbon::now(),
