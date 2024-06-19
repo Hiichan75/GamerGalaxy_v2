@@ -44,6 +44,10 @@
                     <a class="nav-link" href="{{ route('contact.user_messages') }}">My Messages</a>
                 </li>
 
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('gamelist') }}">Gamelist</a>
+                </li>
+
             </ul>
             
             <ul class="navbar-nav">
