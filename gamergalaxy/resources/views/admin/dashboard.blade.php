@@ -34,26 +34,7 @@
                 </div>
             </div>
         </div>
-        <!-- Manage Products -->
-        <div class="col-md-3">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Manage Products</h5>
-                    <p class="card-text">Add, edit, and delete products.</p>
-                    <a href="{{ route('admin.product.index') }}" class="btn btn-primary">Go to Products</a>
-                </div>
-            </div>
-        </div>
-        <!-- Manage Orders -->
-        <div class="col-md-3 mt-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Manage Orders</h5>
-                    <p class="card-text">View, delete, update, and manage orders.</p>
-                    <a href="{{ route('admin.orders.index') }}" class="btn btn-primary">Go to Orders</a>
-                </div>
-            </div>
-        </div>
+        
         <!-- Manage Forum Posts -->
         <div class="col-md-3 mt-4">
             <div class="card">

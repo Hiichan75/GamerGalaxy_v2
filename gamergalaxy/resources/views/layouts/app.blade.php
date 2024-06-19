@@ -24,9 +24,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('forum.index') }}">Forum</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route('product.index') }}">Shop</a>
-                </li>
+                
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('faq.index') }}">FAQ</a>
                 </li>
@@ -36,10 +34,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('about') }}">About</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route('order.index') }}">Orders</a>
-                </li>
-
+                
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('contact.user_messages') }}">My Messages</a>
                 </li>

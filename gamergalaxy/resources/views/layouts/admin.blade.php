@@ -37,12 +37,6 @@
                     <a class="nav-link" href="{{ route('admin.contact.index') }}">Manage Contacts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ route('admin.product.index') }}">Manage Products</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route('admin.orders.index') }}">Manage Orders</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="{{ route('admin.forum.index') }}">Manage Forum Posts</a>
                 </li>
                 <li class="nav-item">
