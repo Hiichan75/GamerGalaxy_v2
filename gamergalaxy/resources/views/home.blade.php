@@ -72,8 +72,12 @@
         }
     </style>
     <section class="gamelist">
-        <h2>Popular Games</h2>
-        <!-- The stars will be generated inside this container -->
+        <h2>Every gamer on this website:</h2>
+        <ul>
+            @foreach ($users as $user)
+                <li>{{ $user->name }}</li>
+            @endforeach
+        </ul>
     </section>
     <script>
         function generateStars() {
