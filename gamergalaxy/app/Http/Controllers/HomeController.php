@@ -23,6 +23,6 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return redirect()->route('news.index'); // Change 'news.index' to your desired authenticated page route
+        return view('home'); // Change 'news.index' to your desired authenticated page route
     }
 }

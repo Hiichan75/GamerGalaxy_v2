@@ -125,7 +125,7 @@
         </style>
         <header class="header">
             <div id="hoofd">
-                <a href="home.html"><img src="logo-removebg.png" alt="Home" id="btnhome"></a>
+                <a href="home"><img src="logo-removebg.png" alt="Home" id="btnhome"></a>
                 <h1>Search for games to add!</h1>
                 <form id="form">
                     <input type="text" id="search" class="search" placeholder="search">
