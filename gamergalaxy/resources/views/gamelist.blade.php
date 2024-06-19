@@ -113,7 +113,7 @@
             border: none;
             border-radius: 6px;
             cursor: pointer;
-            margin-left: 35.5vw;
+            margin-left: 25vw;
             margin-top: 50px;
             font-size: 1.3rem;
             width: 30%;
@@ -170,7 +170,7 @@
         }
         window.addEventListener('load', generateStars);
 
-        const API_URL = 'http://10.3.50.5:8080/games';
+        const API_URL = 'http://10.3.50.5:5000/games';
 
         let games = [];
 
