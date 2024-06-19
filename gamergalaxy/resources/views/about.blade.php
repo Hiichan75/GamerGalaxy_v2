@@ -41,7 +41,7 @@
     <ul>
         <li><a href="https://laravel.com/docs">Laravel Documentation</a></li>
         <li><a href="https://startbootstrap.com">Start Bootstrap</a></li>
-        <li><a href="https://github.com/Hiichan75/bw_charles_wong_laravel_6">GitHub Repository/Sources linked</a></li>
+        <li><a href="https://github.com/Hiichan75/GamerGalaxy_v2.git">GitHub Repository/Sources linked</a></li>
         <li><a href="https://chatgpt.com/?model=gpt-4o">CHAT GPT 4o model</a></li>
     </ul>
 </div>
